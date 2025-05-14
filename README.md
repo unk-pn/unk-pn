@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I'm unk-pn</h1>
 <p align="center">А passionate frontend developer from Saint Petersburg, Russia</p>
+<p align="center">Currently studying at the university and doing pet projects.</p>
 
 <h2 align="center">🌐 My personal <a href="https://unk-pn.ru">website</a> (ru/eng)</h2>
+<p></p>
 
 <h2 align="center">🚀 Tech Stack</h2>
 <div align="center">
