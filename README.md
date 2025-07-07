@@ -1,7 +1,13 @@
 
 <h1 align="center">👋 Hi, I'm unk-pn</h1>
 <p align="center">А passionate frontend developer from Saint Petersburg, Russia</p>
-<p align="center">Currently studying at the university and doing pet projects.</p>
+
+<h2 align="center">🧑‍💻About me</h2>
+<ul align="center">
+  <li>🎓 Currently studying at university</li>
+  <li>💡 Love learning new technologies and building things</li>
+  <li>🚀 Always working on new pet projects</li>
+</ul>
 
 <h2 align="center">🌐 My personal <a href="https://unk-pn.ru">website</a> (ru/eng)</h2>
 <p></p>
@@ -21,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 40px; width: 40px;" alt="Git" />
 </div>
 
-
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=unk-pn&theme=apprentice&hide_border=true" />
@@ -35,12 +40,3 @@
   </picture>
 </div>
 
-<!--
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unk-pn/unk-pn/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unk-pn/unk-pn/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/unk-pn/unk-pn/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
--->
