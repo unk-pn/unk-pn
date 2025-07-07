@@ -3,11 +3,11 @@
 <p align="center">А passionate frontend developer from Saint Petersburg, Russia</p>
 
 <h2 align="center">🧑‍💻About me</h2>
-<ul align="center">
-  <li>🎓 Currently studying at university</li>
-  <li>💡 Love learning new technologies and building things</li>
-  <li>🚀 Always working on new pet projects</li>
-</ul>
+<div align="center">
+  <p>🎓 Currently studying at university</p>
+  <p>💡 Love learning new technologies and building things</p>
+  <p>🚀 Always working on new pet projects</p>
+</div>
 
 <h2 align="center">🌐 My personal <a href="https://unk-pn.ru">website</a> (ru/eng)</h2>
 <p></p>
