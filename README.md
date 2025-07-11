@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm unk-pn</h1>
+<h1 align="center">👋 Hi, I'm unk</h1>
 <p align="center">А passionate frontend developer from Saint Petersburg, Russia</p>
 
 <h2 align="center">🧑‍💻About me</h2>
