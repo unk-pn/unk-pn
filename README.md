@@ -11,7 +11,7 @@
 
 <h2 align="center">🚧 Currently working on</h2>
 <div align="center">
-  <p>🎧 Tryig to deploy a project with NextJS and NestJS</p>
+  <p>🤖 A Telegram miniapp AI project</p>
 </div>
 
 <h2 align="center">🌐 My personal <a href="https://unk-pn.ru">website</a> (ru/eng)</h2>
